@@ -1,0 +1,945 @@
+[
+	{
+		"nodeID": "ID",
+		"nodeLabels": []
+	},
+	[
+		[
+			{
+				"nodeID": "ID",
+				"nodeLabels": [
+					"Stomach"
+				]
+			},
+			[
+				[
+					{
+						"nodeID": "ID",
+						"nodeLabels": [
+							"Stomach"
+						]
+					},
+					[]
+				],
+				[
+					{
+						"nodeID": "ID",
+						"nodeLabels": []
+					},
+					[
+						[
+							{
+								"nodeID": "ID",
+								"nodeLabels": [
+									"Stomach"
+								]
+							},
+							[]
+						],
+						[
+							{
+								"nodeID": "ID",
+								"nodeLabels": []
+							},
+							[
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": [
+											"Stomach"
+										]
+									},
+									[
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": [
+													"Stomach"
+												]
+											},
+											[]
+										]
+									]
+								],
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": []
+									},
+									[
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": [
+													"Stomach"
+												]
+											},
+											[
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach"
+														]
+													},
+													[]
+												]
+											]
+										],
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": [
+													"Stomach"
+												]
+											},
+											[
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach"
+														]
+													},
+													[
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														]
+													]
+												],
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach"
+														]
+													},
+													[]
+												]
+											]
+										]
+									]
+								]
+							]
+						],
+						[
+							{
+								"nodeID": "ID",
+								"nodeLabels": []
+							},
+							[
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": []
+									},
+									[
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": []
+											},
+											[
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach"
+														]
+													},
+													[
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														]
+													]
+												],
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": []
+													},
+													[
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": []
+															},
+															[
+																[
+																	{
+																		"nodeID": "ID",
+																		"nodeLabels": [
+																			"Stomach"
+																		]
+																	},
+																	[]
+																],
+																[
+																	{
+																		"nodeID": "ID",
+																		"nodeLabels": [
+																			"Stomach"
+																		]
+																	},
+																	[]
+																]
+															]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														]
+													]
+												]
+											]
+										],
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": [
+													"Stomach"
+												]
+											},
+											[]
+										]
+									]
+								],
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": []
+									},
+									[
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": [
+													"Stomach"
+												]
+											},
+											[
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach",
+															"Stomach"
+														]
+													},
+													[
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach",
+																	"Stomach",
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														]
+													]
+												]
+											]
+										],
+										[
+											{
+												"nodeID": "ID",
+												"nodeLabels": []
+											},
+											[
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": [
+															"Stomach"
+														]
+													},
+													[]
+												],
+												[
+													{
+														"nodeID": "ID",
+														"nodeLabels": []
+													},
+													[
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														],
+														[
+															{
+																"nodeID": "ID",
+																"nodeLabels": [
+																	"Stomach"
+																]
+															},
+															[]
+														]
+													]
+												]
+											]
+										]
+									]
+								]
+							]
+						]
+					]
+				]
+			]
+		]
+	]
+]

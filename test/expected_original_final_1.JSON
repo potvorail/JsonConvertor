@@ -1,0 +1,76 @@
+[
+	{
+		"nodeID": "ID",
+		"nodeLabels": []
+	},
+	[
+		[
+			{
+				"nodeID": "ID",
+				"nodeLabels": [
+					"PBMC",
+					"Ileum",
+					"Stomach"
+				]
+			},
+			[
+				[
+					{
+						"nodeID": "ID",
+						"nodeLabels": []
+					},
+					[
+						[
+							{
+								"nodeID": "ID",
+								"nodeLabels": []
+							},
+							[
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": [
+											"PBMC"
+										]
+									},
+									[]
+								],
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": [
+											"PBMC",
+											"Ileum",
+											"Ileum"
+										]
+									},
+									[]
+								]
+							]
+						],
+						[
+							{
+								"nodeID": "ID",
+								"nodeLabels": [
+									"PBMC",
+									"Ileum"
+								]
+							},
+							[
+								[
+									{
+										"nodeID": "ID",
+										"nodeLabels": [
+											"MLN"
+										]
+									},
+									[]
+								]
+							]
+						]
+					]
+				]
+			]
+		]
+	]
+]

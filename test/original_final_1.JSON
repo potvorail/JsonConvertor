@@ -1,0 +1,671 @@
+{
+  "info": {
+    "min_mut_copies": 0,
+    "min_mut_samples": 0,
+    "min_seq_copies": 2,
+    "min_seq_samples": 0,
+    "exclude_stops": false,
+    "full_seq": false
+  },
+  "tree": {
+    "data": {
+      "seq_ids": {},
+      "copy_number": 0,
+      "metadata": {},
+      "mutations": []
+    },
+    "children": [
+      {
+        "data": {
+          "seq_ids": {
+            "M03592:65:000000000-B8Y85:1:1101:21810:11918": {
+              "ai": 2794293,
+              "copy_number": 14,
+              "sample_name": "Pt19PBMCPOD105R19-Rep2_S85",
+              "sample_id": 51,
+              "metadata": {
+                "date": "20170818",
+                "disease": "normal",
+                "dsa_class_i": "neg",
+                "dsa_class_ii": "neg",
+                "experimenter": "Sykes_BCR",
+                "j_primer": "Jhmix",
+                "lab": "Sykes",
+                "rejection": "neg",
+                "subset": "POD105",
+                "tissue": [
+            			"PBMC",
+            			"Ileum",
+            			"Stomach"
+                    ],
+                "v_primer": "biomed2 FW1"
+              }
+            }
+          },
+          "node_id": 0,
+          "copy_number": 14,
+          "metadata": {
+            "dsa_class_i": [
+              "neg"
+            ],
+            "tissue": [
+        			"PBMC",
+        			"Ileum",
+        			"Stomach"
+                ],
+            "date": [
+              "20170818"
+            ],
+            "lab": [
+              "Sykes"
+            ],
+            "dsa_class_ii": [
+              "neg"
+            ],
+            "rejection": [
+              "neg"
+            ],
+            "v_primer": [
+              "biomed2 FW1"
+            ],
+            "experimenter": [
+              "Sykes_BCR"
+            ],
+            "subset": [
+              "POD105"
+            ],
+            "j_primer": [
+              "Jhmix"
+            ],
+            "disease": [
+              "normal"
+            ]
+          },
+          "mutations": []
+        },
+        "children": [
+          {
+            "data": {
+              "seq_ids": {},
+              "node_id": 1,
+              "copy_number": 0,
+              "metadata": {},
+              "mutations": [
+                {
+                  "pos": 81,
+                  "from": "T",
+                  "to": "A"
+                },
+                {
+                  "pos": 90,
+                  "from": "T",
+                  "to": "C"
+                }
+              ]
+            },
+            "children": [
+              {
+                "data": {
+                  "seq_ids": {},
+                  "node_id": 2,
+                  "copy_number": 0,
+                  "metadata": {},
+                  "mutations": [
+                    {
+                      "pos": 118,
+                      "from": "A",
+                      "to": "C"
+                    },
+                    {
+                      "pos": 119,
+                      "from": "G",
+                      "to": "A"
+                    },
+                    {
+                      "pos": 117,
+                      "from": "C",
+                      "to": "G"
+                    },
+                    {
+                      "pos": 112,
+                      "from": "G",
+                      "to": "T"
+                    },
+                    {
+                      "pos": 106,
+                      "from": "A",
+                      "to": "G"
+                    }
+                  ]
+                },
+                "children": [
+                  {
+                    "data": {
+                      "seq_ids": {
+                        "M03592:65:000000000-B8Y85:1:2113:27944:17674": {
+                          "ai": 2794309,
+                          "copy_number": 2,
+                          "sample_name": "Pt19PBMCPOD105R19-Rep2_S85",
+                          "sample_id": 51,
+                          "metadata": {
+                            "date": "20170818",
+                            "disease": "normal",
+                            "dsa_class_i": "neg",
+                            "dsa_class_ii": "neg",
+                            "experimenter": "Sykes_BCR",
+                            "j_primer": "Jhmix",
+                            "lab": "Sykes",
+                            "rejection": "neg",
+                            "subset": "POD105",
+                            "tissue": "PBMC",
+                            "v_primer": "biomed2 FW1"
+                          }
+                        }
+                      },
+                      "node_id": 4,
+                      "copy_number": 2,
+                      "metadata": {
+                        "dsa_class_i": [
+                          "neg"
+                        ],
+                        "tissue": [
+                          "PBMC"
+                        ],
+                        "date": [
+                          "20170818"
+                        ],
+                        "lab": [
+                          "Sykes"
+                        ],
+                        "dsa_class_ii": [
+                          "neg"
+                        ],
+                        "rejection": [
+                          "neg"
+                        ],
+                        "v_primer": [
+                          "biomed2 FW1"
+                        ],
+                        "experimenter": [
+                          "Sykes_BCR"
+                        ],
+                        "subset": [
+                          "POD105"
+                        ],
+                        "j_primer": [
+                          "Jhmix"
+                        ],
+                        "disease": [
+                          "normal"
+                        ]
+                      },
+                      "mutations": [
+                        {
+                          "pos": 107,
+                          "from": "G",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 108,
+                          "from": "C",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 114,
+                          "from": "T",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 113,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 105,
+                          "from": "C",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 78,
+                          "from": "T",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 111,
+                          "from": "T",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 88,
+                          "from": "T",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 110,
+                          "from": "A",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 74,
+                          "from": "C",
+                          "to": "T"
+                        }
+                      ]
+                    },
+                    "children": []
+                  },
+                  {
+                    "data": {
+                      "seq_ids": {
+                        "M03592:65:000000000-B8Y85:1:2116:19818:9224": {
+                          "ai": 2803849,
+                          "copy_number": 2,
+                          "sample_name": "Pt19PBMCPOD105R19-Rep2_S85",
+                          "sample_id": 51,
+                          "metadata": {
+                            "date": "20170818",
+                            "disease": "normal",
+                            "dsa_class_i": "neg",
+                            "dsa_class_ii": "neg",
+                            "experimenter": "Sykes_BCR",
+                            "j_primer": "Jhmix",
+                            "lab": "Sykes",
+                            "rejection": "neg",
+                            "subset": "POD105",
+                            "tissue": [
+                              "PBMC",
+                  					  "Ileum",
+                  					  "Ileum"
+                                      ],
+                            "v_primer": "biomed2 FW1"
+                          }
+                        }
+                      },
+                      "node_id": 5,
+                      "copy_number": 2,
+                      "metadata": {
+                        "dsa_class_i": [
+                          "neg"
+                        ],
+                        "tissue": [
+                              "PBMC",
+                  					  "Ileum",
+                  					  "Ileum"
+                                      ],
+                        "date": [
+                          "20170818"
+                        ],
+                        "lab": [
+                          "Sykes"
+                        ],
+                        "dsa_class_ii": [
+                          "neg"
+                        ],
+                        "rejection": [
+                          "neg"
+                        ],
+                        "v_primer": [
+                          "biomed2 FW1"
+                        ],
+                        "experimenter": [
+                          "Sykes_BCR"
+                        ],
+                        "subset": [
+                          "POD105"
+                        ],
+                        "j_primer": [
+                          "Jhmix"
+                        ],
+                        "disease": [
+                          "normal"
+                        ]
+                      },
+                      "mutations": [
+                        {
+                          "pos": 225,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 190,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 276,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 111,
+                          "from": "T",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 239,
+                          "from": "C",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 172,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 211,
+                          "from": "C",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 251,
+                          "from": "C",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 185,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 113,
+                          "from": "G",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 213,
+                          "from": "C",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 240,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 252,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 175,
+                          "from": "T",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 191,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 246,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 170,
+                          "from": "G",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 279,
+                          "from": "C",
+                          "to": "G"
+                        }
+                      ]
+                    },
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "data": {
+                  "seq_ids": {
+                    "M03592:65:000000000-B8Y85:1:2106:4628:15502": {
+                      "ai": 2794331,
+                      "copy_number": 3,
+                      "sample_name": "Pt19PBMCPOD105R19-Rep2_S85",
+                      "sample_id": 51,
+                      "metadata": {
+                        "date": "20170818",
+                        "disease": "normal",
+                        "dsa_class_i": "neg",
+                        "dsa_class_ii": "neg",
+                        "experimenter": "Sykes_BCR",
+                        "j_primer": "Jhmix",
+                        "lab": "Sykes",
+                        "rejection": "neg",
+                        "subset": "POD105",
+                        "tissue": [
+                          "PBMC",
+                				  "Ileum"
+                                ],
+                        "v_primer": "biomed2 FW1"
+                      }
+                    }
+                  },
+                  "node_id": 3,
+                  "copy_number": 3,
+                  "metadata": {
+                    "dsa_class_i": [
+                      "neg"
+                    ],
+                    "tissue": [
+                          "PBMC",
+                				  "Ileum"
+                                ],
+                    "date": [
+                      "20170818"
+                    ],
+                    "lab": [
+                      "Sykes"
+                    ],
+                    "dsa_class_ii": [
+                      "neg"
+                    ],
+                    "rejection": [
+                      "neg"
+                    ],
+                    "v_primer": [
+                      "biomed2 FW1"
+                    ],
+                    "experimenter": [
+                      "Sykes_BCR"
+                    ],
+                    "subset": [
+                      "POD105"
+                    ],
+                    "j_primer": [
+                      "Jhmix"
+                    ],
+                    "disease": [
+                      "normal"
+                    ]
+                  },
+                  "mutations": [
+                    {
+                      "pos": 82,
+                      "from": "T",
+                      "to": "G"
+                    },
+                    {
+                      "pos": 104,
+                      "from": "C",
+                      "to": "G"
+                    },
+                    {
+                      "pos": 83,
+                      "from": "A",
+                      "to": "G"
+                    }
+                  ]
+                },
+                "children": [
+                  {
+                    "data": {
+                      "seq_ids": {
+                        "M03592:65:000000000-B8Y85:1:2117:17271:22252": {
+                          "ai": 2878583,
+                          "copy_number": 3,
+                          "sample_name": "Pt19PBMCPOD105R19-Rep2_S85",
+                          "sample_id": 51,
+                          "metadata": {
+                            "date": "20170818",
+                            "disease": "normal",
+                            "dsa_class_i": "neg",
+                            "dsa_class_ii": "neg",
+                            "experimenter": "Sykes_BCR",
+                            "j_primer": "Jhmix",
+                            "lab": "Sykes",
+                            "rejection": "neg",
+                            "subset": "POD105",
+                            "tissue": "MLN",
+                            "v_primer": "biomed2 FW1"
+                          }
+                        }
+                      },
+                      "node_id": 6,
+                      "copy_number": 3,
+                      "metadata": {
+                        "dsa_class_i": [
+                          "neg"
+                        ],
+                        "tissue": [
+                          "MLN"
+                        ],
+                        "date": [
+                          "20170818"
+                        ],
+                        "lab": [
+                          "Sykes"
+                        ],
+                        "dsa_class_ii": [
+                          "neg"
+                        ],
+                        "rejection": [
+                          "neg"
+                        ],
+                        "v_primer": [
+                          "biomed2 FW1"
+                        ],
+                        "experimenter": [
+                          "Sykes_BCR"
+                        ],
+                        "subset": [
+                          "POD105"
+                        ],
+                        "j_primer": [
+                          "Jhmix"
+                        ],
+                        "disease": [
+                          "normal"
+                        ]
+                      },
+                      "mutations": [
+                        {
+                          "pos": 193,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 113,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 172,
+                          "from": "G",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 211,
+                          "from": "C",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 184,
+                          "from": "A",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 192,
+                          "from": "C",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 244,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 176,
+                          "from": "A",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 240,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 201,
+                          "from": "T",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 170,
+                          "from": "G",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 234,
+                          "from": "G",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 231,
+                          "from": "C",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 245,
+                          "from": "C",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 238,
+                          "from": "A",
+                          "to": "G"
+                        },
+                        {
+                          "pos": 191,
+                          "from": "A",
+                          "to": "C"
+                        },
+                        {
+                          "pos": 185,
+                          "from": "A",
+                          "to": "T"
+                        },
+                        {
+                          "pos": 175,
+                          "from": "T",
+                          "to": "A"
+                        },
+                        {
+                          "pos": 163,
+                          "from": "T",
+                          "to": "G"
+                        }
+                      ]
+                    },
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
